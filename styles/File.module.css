@@ -1,0 +1,17 @@
+.heading{
+    color: rgb(8, 65, 46);;
+}
+.card {
+    background: #eaebeb;
+    padding: 1em;
+}
+.btn{
+    padding: 0.5em;
+    width: 100%;
+    margin-top: 1em;
+}
+.message{
+    font-size: small;
+    text-align: center;
+    color: red;
+}
